@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MovieList>
+  <Movie>
+    <ID>1</ID>
+    <Title>asdfjk</Title>
+    <Director>asdgjk</Director>
+    <Poster>D:\Pc\Photos\IMG-20170914-WA00292.jpg</Poster>
+    <Year>1973</Year>
+    <Geners>Comedy,Fantasy,Romance</Geners>
+    <Rate>6</Rate>
+  </Movie>
+  <Movie>
+    <ID>2</ID>
+    <Title>kfjlad</Title>
+    <Director>kfjdasjf</Director>
+    <Poster>D:\Pc\Photos\IMG-20170914-WA00292.jpg</Poster>
+    <Year>1962</Year>
+    <Geners>Comedy,Fantasy,Historical,Romance</Geners>
+    <Rate>7</Rate>
+  </Movie>
+</MovieList>
